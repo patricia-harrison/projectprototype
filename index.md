@@ -15,7 +15,7 @@ DALEK poetry
 
 https://microbit-micropython.readthedocs.io/en/latest/tutorials/speech.html
 
-![Image](missingimage.png)
+![Image](dalekpoetry.png)
 
 This project is related to mine because it introduced a form of randomised speech for the microbit to produce. The desired outcome for my project is to have a random line of text picked and readout to the user. 
 
@@ -24,7 +24,7 @@ Microbit Controlled Radio
 
 http://www.suppertime.co.uk/blogmywiki/2017/08/microbit-controlled-radio/
 
-![Image](missingimage.png)
+![Image](controlledradio.png)
 
 This project is related to mine because it allows the user to controll the volume and radio channel which is ___ live via the internet. The goal for my project is not to 'live stream' audio from the internet, but audio files from the microbit or an attached micro ssd card.  
 
@@ -33,7 +33,7 @@ Making a Great MP3 player with MakerBit
 
 https://edu.workbencheducation.com/cwists/preview/23746-making-a-great-mp3-player-with-makerbitx
 
-![Image](missingimage.png)
+![Image](mp3player.png)
 
 This project is related to mine because it involves the use of mp3 files and an LCD screen, which are both elements that I want to implement perminently into the final project. 
 
@@ -42,7 +42,7 @@ WAV sound file player
 
 https://www.element14.com/community/community/stem-academy/microbit/blog/2019/06/10/project-bbc-microbit-wav-sound-file-player-by-cabe
 
-![Image](missingimage.png)
+![Image](microsynth.png)
 
 This project is related to mine because involves the use of mp3 files which are triggared to play at the press of a button. This system of interaction is exactly what I wish to do. However, the piece of hardware this related projuct uses can only hold a few seconds of audio, which is an issue.
 
@@ -60,7 +60,7 @@ How to set up an LCD screen with Microbit
 
 https://maker.pro/microbit/tutorial/how-to-setup-an-lcd-screen-with-microbit
 
-![Image](missingimage.png)
+![Image](lcdscreen.png)
 
 This project is related to mine because it introduces the use of an LCD screen which displays texts to its user. 
 
