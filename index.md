@@ -90,7 +90,7 @@ A possible name for the companion robot “Hako” (はこ) which means box/case
 The expressions have been influenced by both of the Anki robots (Vector and Cozmo) and cute japanese emoticons. 
 The design of the box will preferably be kept simple and clean. Hence the cube shape and simple interactions the user can experience (the press of a button which triggers the scripted lines and the expressioned the user can see via the LED screen on the front side of the robot.)
 
-
+![image](NewCanvas1.png)
 ### Interaction flowchart ###
 
 ![Image](flowchart.png)
