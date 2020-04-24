@@ -71,10 +71,6 @@ All of the related projects shown above have been the most helpful in the develo
 
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
-### *Brief resource name/description* ###
-
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
-
 ## Conceptual progress ##
 
 ### Design intent ###
@@ -84,12 +80,8 @@ An affirmations desk 'toy' which will keep users company and remind them to look
 ### Design concept 1 ###
 A box-like robot that makes unintelligable cute sounds in response to a button being pressed. It is essentially a tamagochi that you don't need to feed.  
 
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
-
 ### Design concept 2 ###
-
+a box-like robot with a button on the top. when pressed, an lcd/led screen will move up from the top of the box to display expressions while an mp3 file is played (a scripted line).
 
 ### Final design concept ###
 The initial idea for this project was to create some sort of interactive desk “toy” or device that would act as a type of “companion”, in a sense. This idea had been sparked from a few different things - the companion cube from the game Portal, Cozmo and Vector robots made by Anki, tamagochi and the screaming roomba which was hacked by the YouTuber Michael Reeves. These pieces of inspiration combined into the idea for a wholesome desk robot companion which would provide the user with affirmations, kind words and reminders to stay hydrated and to look after themselves. The intended purpose for this device is to act as a ‘friend’ of sorts for those who spend a lot of time working at their desk and often forget to take breaks. It could also help ease anxiety, intrusive thoughts and lowered self esteem through its kind and cute demeanor. The intended physical interaction between the robot and the user is to be kept simple, so that anyone can use it. The interaction will preferably occur through a button on the top or “face” of the robot (the side of the box with a small LED screen, in which the robot will show expressions). 
@@ -105,14 +97,7 @@ The design of the box will preferably be kept simple and clean. Hence the cube s
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
-
-![Image](missingimage.png)
+![Image](trialcode.png)
 
 ## Design process discussion ##
 
@@ -122,6 +107,7 @@ The start of this project consisted entirely of brainstorming a product that wou
 - encourage users to look after themselves (e.g. stay hydrated)
 - provide affirmations to the user and provide wholesome encouragement 
 - to be placed on desks in offices/bedrooms 
+
 Essentially, the initial idea for this product came from the desire I had for a cute, encouraging desk 'companion'. I knew that for me, something like this little robot would be very helpful for when I am struggling with anxiety, self-esteem issues and intrusive thoughts. Sometimes all I need is something small to cheer me up, e.g. getting a cute meme from a friend could instantly snap me out of that mood. Thus I believe a little robot that provide wholesome affirmations and reminders at the press of the button could not only help myself, but possible others who feel the same. 
 
 ## Next steps ##
