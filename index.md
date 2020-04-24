@@ -51,7 +51,7 @@ DIY Cozmo Robot Expressions
 
 https://www.instructables.com/id/DIY-Cozmo-Robot/
 
-![Image](missingimage.png)
+
 
 This project is related to mine because it is based entirely around cute expressions which are shown to the user via an LED screen. The expressions shown in this related project are based on the Anki robot, Cozmo, which happen to be similar to the expressions I wish to produce for my project.
 
@@ -101,7 +101,7 @@ The design of the box will preferably be kept simple and clean. Hence the cube s
 
 ### Interaction flowchart ###
 
-![Image](missingimage.png)
+![Image](flowchart.png)
 
 ## Physical experimentation documentation ##
 
